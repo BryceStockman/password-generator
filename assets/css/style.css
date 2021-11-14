@@ -77,10 +77,9 @@ header {
   display: inline-block;
   font-size: 22px;
   line-height: 22px;
-  padding-top: 20px;
+  padding: 20px 0 10px 0;
   margin: 16px 16px 0px 20px;
   text-align: center;
-  cursor: pointer;
 }
 
 .password-length-value {
@@ -93,7 +92,7 @@ header {
   margin: 16px 16px 16px 20px;
   padding: 10px 24px;
   text-align: center;
-  cursor: pointer;
+  width: 28%;
 }
 
 .btn {
